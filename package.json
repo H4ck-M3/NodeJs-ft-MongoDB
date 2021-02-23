@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-ft-mongodb",
+  "version": "1.0.0",
+  "description": "Ha ha testing these two",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H4ck-M3/NodeJs-ft-MongoDB.git"
+  },
+  "author": "H4CK-M3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/H4ck-M3/NodeJs-ft-MongoDB/issues"
+  },
+  "homepage": "https://github.com/H4ck-M3/NodeJs-ft-MongoDB#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.17",
+    "morgan": "^1.10.0"
+  }
+}
